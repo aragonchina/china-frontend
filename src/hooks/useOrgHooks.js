@@ -20,7 +20,7 @@ import {
 // Endpoints TODO: Move to endpoints file
 
 // Organzation
-const ORG_ADDRESS = '0x15befa4e78012087f09fb07b51c4907c43f3b366'
+const ORG_ADDRESS = '0xf2707ac1d35e9b1b5e42c1c6f85be7dbc962a28d'
 const ORG_SUBRAPH_URL =
   'https://api.thegraph.com/subgraphs/name/1hive/aragon-xdai'
 
