@@ -3,7 +3,7 @@ import { GU } from '@1hive/1hive-ui'
 import AccountModule from './Account/AccountModule'
 import Layout from './Layout'
 
-import beeSvg from '../assets/bee.svg'
+import beeSvg from '../assets/pandaLogo.png'
 import headerBackgroundSvg from '../assets/header-background.svg'
 import logoSvg from '../assets/logotext.png'
 
