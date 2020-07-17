@@ -105,7 +105,8 @@ function Metric({ label, value, color }) {
 
 function TokenBalance({ label, token, value }) {
   const theme = useTheme()
-  const usdValue = useTokenBalanceToUsd(value, token)
+  // hardcoded until uniswap is set up
+  const usdValue = 0
 
   return (
     <>
@@ -123,7 +124,7 @@ function TokenBalance({ label, token, value }) {
 
 function TokenPrice({ token }) {
   const theme = useTheme()
-  const usdValue = useTokenBalanceToUsd(bigNum(1), token)
+  const usdValue = 0
 
   return (
     <div>
